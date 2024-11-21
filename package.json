@@ -1,0 +1,10 @@
+{
+  "name": "Appium",
+  "type": "module",
+  "devDependencies": {
+    "@wdio/cli": "^9.2.14",
+    "@wdio/local-runner": "^9.2.15",
+    "@wdio/mocha-framework": "^9.2.8",
+    "appium-uiautomator2-driver": "^3.9.0"
+  }
+}
